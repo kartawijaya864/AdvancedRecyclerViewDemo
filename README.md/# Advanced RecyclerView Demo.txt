@@ -1,0 +1,12 @@
+# Advanced RecyclerView Demo
+
+## Fitur
+- ListAdapter
+- DiffUtil
+- Multiple Item View Types
+- GridLayoutManager
+- SpanSizeLookup
+- Custom Binding Adapter
+
+## Dibuat Oleh
+Achmad Syahiir
